@@ -3,7 +3,7 @@ class Hello {
 		System.out.println("Hello");
 		System.out.println("World");
 		System.out.println("Hi~");
+		itn i = 0;
 	}
-
 }
 
